@@ -1,0 +1,40 @@
+{
+  "name": "rnhd",
+  "title": "Rough Nights & Hard Days",
+  "description": "Content from Rough Nights & Hard Days",
+  "version": 0.2,
+  "author": "Jagusti",
+  "systems": ["wfrp4e"],
+  "scripts": ["script.js"],
+  "styles": [
+    "./styles.css"
+  ],
+  "packs": [
+    {
+      "name": "pubgames",
+      "label": "Pub Games",
+      "path": "packs/pubgames.db",
+      "entity": "JournalEntry",
+      "module": "rnhd",
+      "system": "wfrp4e"
+    },
+    {
+      "name": "gnomes",
+      "label": "Gnomes",
+      "path": "packs/gnomes.db",
+      "entity": "JournalEntry",
+      "module": "rnhd",
+      "system": "wfrp4e"
+    },
+    {
+      "name": "talentsrnhd",
+      "label": "Talents (Rough Nights & Hard Days)",
+      "path": "packs/talentsrnhd.db",
+      "entity": "Item",
+      "module": "rnhd",
+      "system": "wfrp4e"
+    }
+  ],
+  "languages": [],
+  "minimumCoreVersion": "0.4.0"
+}
