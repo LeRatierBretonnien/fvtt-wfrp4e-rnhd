@@ -3,7 +3,7 @@
   "title": "Rough Nights & Hard Days",
   "description": "Content from Rough Nights & Hard Days",
   "version": 0.2,
-  "author": "Jagusti",
+  "author": "Jagusti#3610",
   "systems": ["wfrp4e"],
   "scripts": ["script.js"],
   "styles": [
@@ -36,5 +36,7 @@
     }
   ],
   "languages": [],
-  "minimumCoreVersion": "0.4.0"
+  "minimumCoreVersion": "0.4.0",
+  "manifest": "https://raw.githubusercontent.com/Jagusti/fvtt-wfrp4e-rnhd/master/module.json",
+  "download": "https://github.com/Jagusti/fvtt-wfrp4e-rnhd/archive/master.zip"
 }
