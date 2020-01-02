@@ -2,7 +2,7 @@
   "name": "rnhd",
   "title": "Rough Nights & Hard Days",
   "description": "Content from Rough Nights & Hard Days for WFRP4e",
-  "version": "0.5",
+  "version": "0.6",
   "author": "Jagusti#3610",
   "systems": ["wfrp4e"],
   "scripts": ["scripts/chargen-gnome.js"],
