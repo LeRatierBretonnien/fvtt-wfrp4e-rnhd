@@ -2,7 +2,7 @@
   "name": "rnhd",
   "title": "Rough Nights & Hard Days",
   "description": "Content from Rough Nights & Hard Days for WFRP4e",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "author": "Jagusti#3610",
   "systems": ["wfrp4e"],
   "scripts": ["scripts/chargen-gnome.js"],
@@ -32,7 +32,8 @@
       "path": "packs/spellsrnhd.db",
       "entity": "Item",
       "module": "rnhd",
-      "system": "wfrp4e"
+      "system": "wfrp4e",
+	  "tag": "spell"
     },
     {
       "name": "talentsrnhd",
@@ -40,7 +41,8 @@
       "path": "packs/talentsrnhd.db",
       "entity": "Item",
       "module": "rnhd",
-      "system": "wfrp4e"
+      "system": "wfrp4e",
+	  "tag": "talent"
     }
   ],
   "languages": ["en"],
