@@ -17,4 +17,6 @@ Thanks to [Moo-Man](https://github.com/moo-man) for setting up the module struct
 
 ## Installation 
 * Add via Foundry VTT Module Setup screen. 
-* Manifest URL: https://raw.githubusercontent.com/Jagusti/fvtt-wfrp4e-rnhd/master/module.json
+  * Manifest URL: `https://raw.githubusercontent.com/Jagusti/fvtt-wfrp4e-rnhd/master/module.json`
+* The GM needs to enable the module for the World: 
+  * Settings > Manage Modules > check `Rough Nights & Hard Days` 

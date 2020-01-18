@@ -1,8 +1,8 @@
 {
   "name": "rnhd",
-  "title": "Rough Nights & Hard Days",
-  "description": "Content from Rough Nights & Hard Days for WFRP4e",
-  "version": "0.6.2",
+  "title": "Rough Nights & Hard Days (WFRP 4e)",
+  "description": "Content from the Rough Nights & Hard Days supplement for Warhammer Fantary Roleplay 4e",
+  "version": "0.6.3",
   "author": "Jagusti#3610",
   "systems": ["wfrp4e"],
   "scripts": ["scripts/chargen-gnome.js"],
@@ -33,7 +33,7 @@
       "entity": "Item",
       "module": "rnhd",
       "system": "wfrp4e",
-	  "tag": "spell"
+	    "tag": "spell"
     },
     {
       "name": "talentsrnhd",
@@ -42,11 +42,11 @@
       "entity": "Item",
       "module": "rnhd",
       "system": "wfrp4e",
-	  "tag": "talent"
+	    "tag": "talent"
     }
   ],
   "languages": ["en"],
-  "minimumCoreVersion": "0.4.0",
+  "minimumCoreVersion": "0.4.4",
   "manifest": "https://raw.githubusercontent.com/Jagusti/fvtt-wfrp4e-rnhd/master/module.json",
   "download": "https://github.com/Jagusti/fvtt-wfrp4e-rnhd/archive/master.zip",
   "url": "https://github.com/Jagusti/fvtt-wfrp4e-rnhd/"
