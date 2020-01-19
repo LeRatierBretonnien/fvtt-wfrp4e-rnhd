@@ -1,6 +1,6 @@
 # Rough Nights & Hard Days
 
-Extends content for the [WFRP4e](https://github.com/CatoThe1stElder/WFRP-4th-Edition-FoundryVTT) system  for [Foundry Virtual Tabletop](https://foundryvtt.com/) based on *Rough Nights &amp; Hard Days* for Warhammer Fantasy Roleplay 4th Edition by Cubicle 7.
+Extends content for the [WFRP4e system](https://github.com/CatoThe1stElder/WFRP-4th-Edition-FoundryVTT) to be used with the [Foundry Virtual Tabletop](https://foundryvtt.com/). Based on the  *Rough Nights &amp; Hard Days* supplement for Warhammer Fantasy Roleplay 4th Edition by Cubicle 7.
 
 * Support for **Gnome** characters, including 
   * attribute template
