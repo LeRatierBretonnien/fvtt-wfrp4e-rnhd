@@ -2,7 +2,7 @@
   "name": "wfrp4e-rnhd",
   "title": "Rough Nights & Hard Days (WFRP4e)",
   "description": "Content from the Rough Nights & Hard Days supplement for Warhammer Fantary Roleplay 4e",
-  "version": "0.6.3.1",
+  "version": "0.6.4",
   "author": "Jagusti",
   "systems": ["wfrp4e"],
   "scripts": ["scripts/chargen-gnome.js"],
