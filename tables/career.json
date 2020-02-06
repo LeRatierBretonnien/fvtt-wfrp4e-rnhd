@@ -106,7 +106,7 @@
     },    {
       "range":{
         "human" : [18, 19],
-        "dwarf" : [18],
+        "dwarf" : [18, 18],
         "halfling" : [16, 19],
         "gnome" : [18, 18],
         "helf" : [],
