@@ -2,7 +2,7 @@
   "name": "wfrp4e-rnhd",
   "title": "Rough Nights & Hard Days (WFRP4e)",
   "description": "Content from the Rough Nights & Hard Days supplement for Warhammer Fantary Roleplay 4e",
-  "version": "0.6.5",
+  "version": "0.7",
   "author": "Jagusti",
   "systems": ["wfrp4e"],
   "scripts": ["scripts/chargen-gnome.js"],
@@ -27,22 +27,54 @@
       "system": "wfrp4e"
     },
     {
-      "name": "spellsrnhd",
+      "name": "rnhd-spells",
       "label": "Spells (Rough Nights & Hard Days)",
-      "path": "packs/spellsrnhd.db",
+      "path": "packs/rnhd-spells.db",
       "entity": "Item",
       "module": "wfrp4e-rnhd",
       "system": "wfrp4e",
 	    "tag": "spell"
     },
     {
-      "name": "talentsrnhd",
+      "name": "rnhd-talents",
       "label": "Talents (Rough Nights & Hard Days)",
-      "path": "packs/talentsrnhd.db",
+      "path": "packs/rnhd-talents.db",
       "entity": "Item",
       "module": "wfrp4e-rnhd",
       "system": "wfrp4e",
 	    "tag": "talent"
+    },
+    {
+      "name": "rnhd-01-3feathers",
+      "label": "(RNHD) 01 Rough Night at the Three Feathers",
+      "path": "packs/rnhd-01-3feathers.db",
+      "entity": "Actor",
+      "module": "wfrp4e-rnhd",
+      "system": "wfrp4e"
+    },
+    {
+      "name": "rnhd-02-day-trials",
+      "label": "(RNHD) 02 A Day at the Trials",
+      "path": "packs/rnhd-02-day-trials.db",
+      "entity": "Actor",
+      "module": "wfrp4e-rnhd",
+      "system": "wfrp4e"
+    },
+    {
+      "name": "rnhd-campaign-notes",
+      "label": "Campaign Notes (Rough Nights & Hard Days)",
+      "path": "packs/rnhd-campaign-notes.db",
+      "entity": "JournalEntry",
+      "module": "wfrp4e-rnhd",
+      "system": "wfrp4e"
+    },
+    {
+      "name": "rnhd-scenes",
+      "label": "Rough Nights & Hard Days",
+      "path": "packs/rnhd-scenes.db",
+      "entity": "Scene",
+      "module": "wfrp4e-rnhd",
+      "system": "wfrp4e"
     }
   ],
   "languages": ["en"],
